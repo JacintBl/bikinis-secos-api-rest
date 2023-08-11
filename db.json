@@ -8,7 +8,6 @@
       "gender": "Male",
       "origin": "Earth (C-137)",
       "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
-      "created": "2017-11-04T18:48:46.250Z",
       "description": "An exceptionally gifted, yet deeply troubled scientist with a penchant for chaos. His insatiable thirst for interdimensional exploration is matched only by his self-destructive tendencies and cynical worldview."
     },
     {
@@ -19,7 +18,6 @@
       "gender": "Male",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
-      "created": "2017-11-04T18:50:21.651Z",
       "description": "A timid, 14-year-old boy who reluctantly joins his eccentric grandfather Rick on bizarre and dangerous intergalactic escapades, often facing his fears and moral dilemmas."
     },
     {
@@ -30,7 +28,6 @@
       "gender": "Female",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
-      "created": "2017-11-04T19:09:56.428Z",
       "description": "Rick's assertive and sarcastic granddaughter, a high school student who navigates the chaos of interdimensional adventures while trying to balance her teenage life."
     },
     {
@@ -41,7 +38,6 @@
       "gender": "Female",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
-      "created": "2017-11-04T19:22:43.665Z",
       "description": "A strong-willed and insecure horse surgeon, Rick's daughter, and Morty's mother. She grapples with her complex relationship with Rick while striving to maintain stability in her family's bizarre lifestyle."
     },
     {
@@ -52,7 +48,6 @@
       "gender": "Male",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
-      "created": "2017-11-04T19:26:56.301Z",
       "description": "Insecure and inept, he's Beth's husband and Morty's father. Constantly feeling inadequate, Jerry tries to assert his authority but often becomes the family's comedic relief in their sci-fi misadventures."
     },
     {
@@ -63,7 +58,6 @@
       "gender": "Female",
       "origin": "Abadango",
       "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
-      "created": "2017-11-04T19:50:28.250Z",
       "description": "The Abadango Cluster Princess is a regal, powerful, and melodramatic ruler from an alien empire. She gets entangled in Rick and Morty's escapades, showcasing her fierce and extravagant personality."
     },
     {
@@ -74,7 +68,6 @@
       "gender": "Male",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
-      "created": "2017-11-04T19:59:20.523Z",
       "description": "Abradolf Lincler is a hybrid of Abraham Lincoln and Adolf Hitler, created by Rick. A complex character, torn between good and evil traits, seeking purpose and struggling with identity."
     },
     {
@@ -85,7 +78,6 @@
       "gender": "Male",
       "origin": "unknown",
       "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
-      "created": "2017-11-04T20:03:34.737Z",
       "description": "Adjudicator Rick is a stern and authoritative version of Rick, tasked with overseeing interdimensional law and maintaining order across the multiverse. He has no patience for rule-breakers and takes his role seriously."
     },
     {
@@ -96,7 +88,6 @@
       "gender": "Male",
       "origin": "Earth (Replacement Dimension)",
       "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
-      "created": "2017-11-04T20:06:54.976Z",
       "description": "The Agency Director is a high-ranking official in a secretive organization responsible for monitoring and regulating interdimensional activities. They are cunning, manipulative, and always one step ahead in their pursuit of power and control."
     },
     {
@@ -107,118 +98,7 @@
       "gender": "Male",
       "origin": "unknown",
       "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
-      "created": "2017-11-04T20:19:09.017Z",
       "description": "Alan Rails is a tough, no-nonsense superhero who possesses the power of summoning ghostly trains. He's a member of the Vindicators, a group of intergalactic superheroes. Alan is determined, stoic, and fiercely loyal to his team."
-    },
-    {
-      "id": 11,
-      "name": "Albert Einstein",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male",
-      "origin": "Earth (C-137)",
-      "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
-      "created": "2017-11-04T20:20:20.965Z",
-      "description": "In an alternate dimension, Albert Einstein appears as a hyper-intelligent, adventurous counterpart to his real-life self. He joins Rick and Morty on mind-bending quests, adding his genius to their cosmic escapades."
-    },
-    {
-      "id": 12,
-      "name": "Alexander",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male",
-      "origin": "Earth (C-137)",
-      "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
-      "created": "2017-11-04T20:32:33.144Z",
-      "description": "Alexander is an enigmatic intergalactic being, part of a cosmic council. With vast knowledge and powers, he aids or challenges Rick and Morty during their mind-bending journeys, testing their wits and resolve."
-    },
-    {
-      "id": 13,
-      "name": "Alien Googah",
-      "status": "unknown",
-      "species": "Alien",
-      "gender": "unknown",
-      "origin": "unknown",
-      "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
-      "created": "2017-11-04T20:33:30.779Z",
-      "description": "Alien Googah is a quirky extraterrestrial creature encountered by Rick and Morty on their interdimensional travels. It communicates through bizarre sounds and gestures, adding a touch of surreal humor to their adventures."
-    },
-    {
-      "id": 14,
-      "name": "Alien Morty",
-      "status": "unknown",
-      "species": "Alien",
-      "gender": "Male",
-      "origin": "Abadango",
-      "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
-      "created": "2017-11-04T20:51:31.373Z",
-      "description": "An adorable, green-skinned extraterrestrial doppelgänger of Morty. He's curious, innocent, and joins Rick and Morty on mind-bending intergalactic escapades, bringing an alien charm to their adventures."
-    },
-    {
-      "id": 15,
-      "name": "Alien Rick",
-      "status": "unknown",
-      "species": "Alien",
-      "gender": "Male",
-      "origin": "Zephyr Stormrider",
-      "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
-      "created": "2017-11-04T20:56:13.215Z",
-      "description": "A multidimensional version of Rick with unique features and quirks. He's a brilliant, eccentric scientist who collaborates or competes with the original Rick, sparking cosmic chaos and intellectual showdowns."
-    },
-    {
-      "id": 16,
-      "name": "Amish Cyborg",
-      "status": "Dead",
-      "species": "Alien",
-      "gender": "Male",
-      "origin": "unknown",
-      "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
-      "created": "2017-11-04T21:12:45.235Z",
-      "description": "A fascinating blend of traditional Amish values and advanced cybernetics. This character navigates futuristic technology with rustic simplicity, adding a quirky and comedic element to Rick and Morty's adventures."
-    },
-    {
-      "id": 17,
-      "name": "Annie",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Female",
-      "origin": "Earth (C-137)",
-      "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
-      "created": "2017-11-04T22:21:24.481Z",
-      "description": "A witty and resourceful half-human, half-cybernetic adventurer. She joins Rick and Morty on thrilling quests, using her cyber-enhancements to outsmart enemies and tackle cosmic challenges."
-    },
-    {
-      "id": 18,
-      "name": "Antenna Morty",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Male",
-      "origin": "Zephyr Stormrider",
-      "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
-      "created": "2017-11-04T22:25:29.008Z",
-      "description": "A Morty with radio wave receptors on his head. He unintentionally intercepts alien broadcasts, leading to hilarious misunderstandings and wacky situations during interdimensional escapades with Rick."
-    },
-    {
-      "id": 19,
-      "name": "Antenna Rick",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Male",
-      "origin": "Luna Emberheart",
-      "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
-      "created": "2017-11-04T22:28:13.756Z",
-      "description": "A brilliant Rick with advanced antennae on his head, granting him enhanced perception and communication abilities. He uses his unique skills to navigate the multiverse, leading to unpredictable and comical outcomes in his adventures with Morty."
-    },
-    {
-      "id": 20,
-      "name": "Ants in my Eyes Johnson",
-      "status": "unknown",
-      "species": "Human",
-      "gender": "Male",
-      "origin": "Luna Emberheart",
-      "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
-      "created": "2017-11-04T22:34:53.659Z",
-      "description": "A hilariously inept salesman from a TV commercial in the interdimensional cable episode. His gimmick is selling products despite having ants in his eyes, leading to absurdly funny moments."
     }
   ]
 }
